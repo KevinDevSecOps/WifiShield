@@ -86,3 +86,10 @@ _"Con grandes firewalls vienen grandes responsabilidades"_
 pkg install scapy  
 git clone https://github.com/tuusuario/WiFiShield  
 cd WiFiShield
+
+🔹 **Features estrella**:  
+- Escáner de dispositivos no autorizados  
+- Detección de ataques en tiempo real  
+- Hardening con un solo comando  
+🔒 **100% legal y ético**
++ "El conocimiento es poder, pero la ética es tu superpoder"
