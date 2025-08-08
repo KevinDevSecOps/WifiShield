@@ -1,3 +1,7 @@
+⚠️ **Aviso importante**:  
+- Solo para redes propias o con permiso  
+- Usa VirtualBox/Kali si eres principiante  
+- ¡Nunca hackees redes ajenas!
 ```markdown
 # 🛡️ 𝕎𝕚𝔽𝕚 𝕊𝕙𝕚𝕖𝕝𝕕 ℙ𝕣�𝕠 🚀
 _"El WiFi de los elegantes no se hackea"_  
