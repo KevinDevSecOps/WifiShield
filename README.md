@@ -66,3 +66,19 @@ _"Usa este poder solo para el bien, Padawan"_
 _"Con grandes firewalls vienen grandes responsabilidades"_  
 🔥 **#HackeoÉticoORevienta** 🔥
 ```
+
+# 🛡️ 𝕎𝕚𝔽𝕚𝕊𝕙𝕚𝕖𝕝𝕕  
+*"Porque la mejor ofensa es una buena defensa"*  
+
+![Shield Logo](https://img.icons8.com/color/96/000000/shield.png)  
+
+## 🔐 𝕋𝕦 𝕣𝕖𝕕 𝕖𝕤 𝕥𝕦 𝕣𝕖𝕚𝕟𝕠:  
+- 🕵️ **Audita tu WiFi** con `wifi_audit.sh`.  
+- 🚨 **Detecta ataques** en tiempo real.  
+- 🛡️ **Guía de Hardening** paso a paso.  
+
+```bash
+# Instalación (Termux/Kali):  
+pkg install scapy  
+git clone https://github.com/tuusuario/WiFiShield  
+cd WiFiShield
